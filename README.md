@@ -1,0 +1,2 @@
+# entregaIA
+First individual assesment
